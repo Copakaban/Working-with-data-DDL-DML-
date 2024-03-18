@@ -18,4 +18,11 @@ SOURCE home/sv/sakila-db/sakila-data.sql;
 ![image](https://github.com/Copakaban/Working-with-data-DDL-DML-/assets/118304300/97676076-8115-4b72-9851-d68b60af8b19)  
 
 ## Задание 2
-| Название таблицы | Название первичного ключа |
+| Название таблицы | Название первичного ключа |  
+:----------:|:----------:|  
+| actor | actor_id |  
+| address	| address_id |  
+
+
+
+
